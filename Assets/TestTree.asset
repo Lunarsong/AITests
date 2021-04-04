@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9bb0d52f7bb461438db651fdb1dd03f, type: 3}
+  m_Name: TestTree
+  m_EditorClassIdentifier: 
+  Root:
+    id: 0
+  m_Nodes: []
+  m_Blackboard:
+    id: 1
+  m_SerializedPositions: []
+  references:
+    version: 1
+    00000000:
+      type: {class: , ns: , asm: }
+    00000001:
+      type: {class: Blackboard, ns: AI.BehaviourTrees, asm: BehaviourTree}
+      data:
+        m_Variables: []
+        m_Links: []
